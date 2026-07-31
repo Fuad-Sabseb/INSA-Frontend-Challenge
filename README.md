@@ -3,6 +3,7 @@
 ## Objective
 
 Complete the application using HTML, CSS, JavaScript, Git, GitHub and teamwork workflow.
+Complete the application using HTML, CSS, JavaScript, Git, GitHub and responsive design.
 
 ## Requirements
 
