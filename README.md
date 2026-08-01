@@ -121,10 +121,3 @@ Then open the URL Vite prints (usually [http://localhost:5173](http://localhost:
 | POST   | `/api/tasks`      | Create a task (`{title}`)  |
 | PATCH  | `/api/tasks/:id`  | Update a task (e.g. `{completed: true}`) |
 | DELETE | `/api/tasks/:id`  | Delete a task              |
-
-## Submission
-
-Submit:
-
-- GitHub Repository Link
-- PDF Report
